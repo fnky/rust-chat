@@ -36,6 +36,6 @@ if (ws.readyState === WebSocket.OPEN) {
 
 ## Todo
 
-[ ] Refactor code into multiple files
-[ ] Seperate library code from application
-[ ] Implement secure authentication/authorization
+- [ ] Refactor code into multiple files
+- [ ] Seperate library code from application
+- [ ] Implement secure authentication/authorization
