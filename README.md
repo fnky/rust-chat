@@ -1,7 +1,7 @@
 Chat in Rust
 ============
 
-A scalable chat service using [WebSockets](https://www.websocket.org/), implemented in [Rust](rust-lang.org).
+A scalable chat service using [WebSockets](https://www.websocket.org/), implemented in [Rust](http://rust-lang.org/).
 
 ## About
 
